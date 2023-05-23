@@ -1,2 +1,2 @@
-# ML_Courses-ENSEA-
+# ML_Courses-ENSEA
 Machine Learning Courses - ENSEA
